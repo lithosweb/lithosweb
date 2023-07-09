@@ -1,16 +1,14 @@
-### Hi there 👋
+# CDN used
+.waterCSS
+.Bootstrap CSS & JS
 
-<!--
-**lithosweb/lithosweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Author
+Name: Fabrice Kulhe
+Email: fabriceKulhe@gmail.com
+Tel:  +243 970 972 808
+      +243 808 870 382
+Skills: PHP, HTML, CSS, JS, SQL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Date
+begin: 9-July-2023
+end: -
